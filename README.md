@@ -41,7 +41,7 @@ The JSON file is formatted as an array of objects, each representing a single po
     "positionTitle": "Assistant Director",
     "groupName": "Creative Direction",
     "description": "The Assistant Director is a liason between the director and the rest of the production, often coordinating the daily logistics of production. There may be multiple assistant directors on a project. This role is primarily seen in fiction podcasts.",
-    "example": "William Wright for \"Inn Between\""
+    "example": "William Wright for 'Inn Between'"
   }
 ]
 ```
