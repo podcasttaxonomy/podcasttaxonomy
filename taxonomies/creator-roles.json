@@ -94,6 +94,13 @@
     ]
   },
   {
+    "positionTitle": "Guest Host",
+    "code": "guestHost",
+    "groupName": "Cast",
+    "description": "The Guest Host performs all of the duties of the traditional Host role, but does so in a temporary capacity. Often as a single appearance or a short span of episodes.",
+    "example": "Erica Kelly on \"Let's Taco 'Bout Women and True Crime\""
+  },
+  {
     "positionTitle": "Guest",
     "code": "guest",
     "groupName": "Cast",
