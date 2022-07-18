@@ -107,7 +107,6 @@
     "description": "The Guest is an outside party who makes an on-air appearance on an episode. They can appear as a participant in a panel, an interview subject, or temporarily perform the duties of a host, writer, or other roles outlined in this whitepaper for the duration of an episode.",
     "example": "Lewis Brindley for \"Triforce!\"",
     "aliases": [
-      "Guest Host",
       "Guest Writer"
     ]
   },
