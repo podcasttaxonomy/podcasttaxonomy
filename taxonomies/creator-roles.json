@@ -530,10 +530,10 @@
     "aliases": []
   },
   {
-    "positionTitle": "Editor",
-    "code": "editor",
+    "positionTitle": "Video Editor",
+    "code": "videoEditor",
     "groupName": "Video Post-Production",
-    "description": "Television editors are responsible for taking the shot footage and clips and blending them together to craft the director's vision and storytelling.",
+    "description": "Video editors are responsible for taking the shot footage and clips and blending them together to craft the director's vision and storytelling.",
     "example": "",
     "aliases": []
   },
