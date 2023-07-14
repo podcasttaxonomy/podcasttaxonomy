@@ -317,14 +317,6 @@
     "aliases": []
   },
   {
-    "positionTitle": "Music Supervisor",
-    "code": "musicSupervisor",
-    "groupName": "Audio Production",
-    "description": "The Post Production Engineer evaluates audio technologies and their application as it pertains to the final steps of production and publication.",
-    "example": "",
-    "aliases": []
-  },
-  {
     "positionTitle": "Audio Editor",
     "code": "audioEditor",
     "groupName": "Audio Post-Production",
